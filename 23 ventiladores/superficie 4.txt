@@ -1,0 +1,1 @@
+const static float fan_voltage_map[5][5] = {};

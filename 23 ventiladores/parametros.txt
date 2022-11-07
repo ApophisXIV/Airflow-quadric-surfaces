@@ -1,0 +1,9 @@
+Cantidad de ventiladores: 23
+Tension nominal de los ventiladores: 12.0
+Corriente nominal de los ventiladores: 0.3
+X_MIN: -3
+X_MAX: 3
+Y_MIN: -3
+Y_MAX: 3
+COFF: 1
+OFFSET: 0
